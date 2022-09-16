@@ -1,0 +1,5 @@
+Database Info
+MySQL 8.0.28
+DB instance:ZEAL-2022
+Master username : admin
+MasterPassword :zealev23
